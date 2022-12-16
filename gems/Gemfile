@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem "os"
+
+# Ruby gems site
+# https://rubygems.org/search?query=rout+autentication
